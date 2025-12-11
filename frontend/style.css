@@ -1,0 +1,22 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+}
+
+input {
+  margin: 5px;
+  padding: 8px;
+}
+
+button {
+  padding: 10px;
+  background: black;
+  color: white;
+  cursor: pointer;
+}
+
+.contact {
+  margin: 10px 0;
+  padding: 10px;
+  background: #eee;
+}
